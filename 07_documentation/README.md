@@ -76,10 +76,9 @@ retailmart_analytics_project/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/retailmart-analytics.git
-   cd retailmart-analytics
-   ```
-
+   git clone https://github.com/danish-git-hub/retailmart_analytic_project.git
+   cd retailmart_analytic_project
+   
 2. **Create the RetailMart database** (if not exists)
 
    ```sql
