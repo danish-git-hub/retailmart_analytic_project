@@ -5,7 +5,9 @@
 
 > A comprehensive, production-ready analytics platform built with PostgreSQL, featuring 25+ views, 10 materialized views, 32 JSON export functions, and a 7-tab interactive dashboard.
 
-![Dashboard Preview](dashboard_preview.png)
+## 🚀 Live Dashboard
+
+👉 **[Open the RetailMart Analytics Dashboard](https://danish-git-hub.github.io/retailmart_analytic_project/06_dashboard/)**
 
 ## 🎯 Project Overview
 
