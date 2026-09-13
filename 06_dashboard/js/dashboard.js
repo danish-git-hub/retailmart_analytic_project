@@ -3,7 +3,7 @@
  * FILE: js/dashboard.js
  * PROJECT: RetailMart V3 Enterprise Analytics Platform
  * PURPOSE: Dashboard interactivity, data loading, and chart rendering
- * AUTHOR: Sayyed Siraj Ali
+ * AUTHOR: Mohammad Danish
  * VERSION: 3.0 — 10-Tab Dashboard
  * ============================================================================
  */
